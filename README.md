@@ -17,8 +17,8 @@ Welcome to the UniTrackApp organization! We provide powerful tools to help unive
 
 ## ✌️ Team
 
-- Aryan Prince
-- Andrea La Fauci De Leo
-- Lewis Johnson
+- [Aryan Prince](https://x.com/aryxnprince)
+- [Andrea La Fauci De Leo](https://github.com/Bosurgi)
+- [Lewis Johnson](https://github.com/lewisj576)
 
 Check out the [UniTrack Dashboard](https://github.com/UniTrackApp/dashboard) repository for more details on our core platform, or explore the [UniTrack Scanner](https://github.com/UniTrackApp/scanner) repository to learn about the hardware integration.
